@@ -2,15 +2,14 @@
   <img src="https://img.itch.zone/aW1nLzI2MTc1MDg1LmdpZg==/original/Dn1QbR.gif" width="100%" alt="Starve Neon Banner">
 </div>
 
-## 👾 Neon Shadow · Indie Dev & Tool Maker
+## ✨ Neon Shadow · Indie Dev & Tool Maker
 
 **Hey, I'm Neon Shadow** — a solo developer from Russia crafting brutal survival worlds and sharing the tools I build along the way.  
-My current obsession: **Starve Neon**, a hardcore multiplayer survival game. But I also love giving back to the community with open‑source utilities.
+My current obsession: **Starve Neon**, a hardcore multiplayer survival game.
 
-- 🔥 Creator of [**Starve Neon**](https://neon-imperium.itch.io/starve-neon) – Tarkov meets Rust, with stylized 3D graphics  
-- 🛠️ **Open‑source tools** for game devs: [IconCreator](https://github.com/NeonShadowYT/IconCreator), [WorldGenerator](https://github.com/NeonShadowYT/WorldGenerator)  
-- 🌐 Website & project hub: [NeonImperium](https://neonshadowyt.github.io/NeonImperium/starve-neon)  
-- 💬 Always open to feedback, testing, or just chatting about game dev
+- Creator of [**Starve Neon**](https://neon-imperium.itch.io/starve-neon) – Tarkov meets Rust, with stylized 3D graphics  
+- **Open‑source tools** for game devs: [IconCreator](https://github.com/NeonShadowYT/IconCreator), [WorldGenerator](https://github.com/NeonShadowYT/WorldGenerator)  
+- Website & project hub: [NeonImperium](https://neonshadowyt.github.io/NeonImperium/starve-neon)
 
 <div align="center">
   <a href="https://neonshadowyt.github.io/NeonImperium/starve-neon">
