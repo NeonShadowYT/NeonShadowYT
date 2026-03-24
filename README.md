@@ -59,14 +59,13 @@ I believe in making development easier for everyone. Here are some tools I've bu
 
 Use them, fork them, improve them. If you build something cool, let me know!
 
+<div align="center">
+  <img src="https://img.itch.zone/aW1nLzI2MTc1MTAzLmdpZg==/original/ZSdakp.gif">
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeonShadowYT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonShadowYT&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</div>
-
-<div align="center">
-  <img src="https://img.itch.zone/aW1nLzIyNjAyNTM1LmdpZg==/original/HYXFD4.gif" width="100%">
-  <br><br>
 </div>
