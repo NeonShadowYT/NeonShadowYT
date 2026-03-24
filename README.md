@@ -53,8 +53,8 @@ I believe in making development easier for everyone. Here are some tools I've bu
 
 | Tool | What it does |
 |------|--------------|
-| [**IconCreator**](https://github.com/NeonShadowYT/IconCreator) | Generate game icons in bulk – perfect for modders and indie devs. |
-| [**WorldGenerator**](https://github.com/NeonShadowYT/WorldGenerator) | Procedural world generation for tile‑based games. Biomes, heightmaps, and more. |
+| [**IconCreator**](https://github.com/NeonShadowYT/IconCreator) | Simple icon creation using 3D models directly in the editor. |
+| [**WorldGenerator**](https://github.com/NeonShadowYT/WorldGenerator) | Places prefabs according to rules – perfect for procedural level design. |
 | [**NeonImperium**](https://github.com/NeonShadowYT/NeonImperium) | The open‑source website for Starve Neon – HTML/CSS/JS, yours to explore. |
 
 Use them, fork them, improve them. If you build something cool, let me know!
