@@ -1,9 +1,6 @@
-<!-- Header Banner (wide, short GIF) -->
 <div align="center">
   <img src="https://img.itch.zone/aW1nLzI2MTc1MDg1LmdpZg==/original/Dn1QbR.gif" width="100%" alt="Starve Neon Banner">
 </div>
-
----
 
 ## 👾 NeonShadow · Indie Dev & Tool Maker
 
@@ -15,12 +12,9 @@ My current obsession: **Starve Neon**, a hardcore multiplayer survival game. But
 - 🌐 Website & project hub: [NeonImperium](https://neonshadowyt.github.io/NeonImperium/starve-neon)  
 - 💬 Always open to feedback, testing, or just chatting about game dev
 
----
-
 ## 🔗 Connect & Explore
 
 <div align="center">
-  <!-- Row 1: Project links -->
   <a href="https://neonshadowyt.github.io/NeonImperium/starve-neon">
     <img src="https://img.shields.io/badge/%20Starve%20Neon%20Website-1a1b2f?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -44,8 +38,6 @@ My current obsession: **Starve Neon**, a hardcore multiplayer survival game. But
   </a>
 </div>
 
----
-
 ## ⚔️ Starve Neon — Brutal Hardcore Survival
 
 <div align="center">
@@ -54,8 +46,6 @@ My current obsession: **Starve Neon**, a hardcore multiplayer survival game. But
 
 > A brutal mix of *Escape from Tarkov*, *Rust*, and *ARC Riders*, wrapped in the stylized 3D graphics of *Starve.io*.
 > *Starve Neon is in early development but already playable. Jump in and help shape the game!*
-
----
 
 ## 🛠️ Tools I Share
 
@@ -69,16 +59,12 @@ I believe in making development easier for everyone. Here are some tools I've bu
 
 Use them, fork them, improve them. If you build something cool, let me know!
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeonShadowYT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonShadowYT&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </div>
-
----
 
 <div align="center">
   <img src="https://img.itch.zone/aW1nLzIyNjAyNTM1LmdpZg==/original/HYXFD4.gif" width="100%">
