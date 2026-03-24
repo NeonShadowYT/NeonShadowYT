@@ -83,7 +83,4 @@ Use them, fork them, improve them. If you build something cool, let me know!
 <div align="center">
   <img src="https://img.itch.zone/aW1nLzIyNjAyNTM1LmdpZg==/original/HYXFD4.gif" width="100%">
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
-  <br>
-  <i>✨ Thanks for visiting — let's create something brutal together! ✨</i>
 </div>
