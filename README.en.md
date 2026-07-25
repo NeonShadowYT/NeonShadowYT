@@ -28,9 +28,7 @@ My current passion: **Starve Neon** a hardcore multiplayer survival game.
 
 ## ⚔️ Starve Neon Hardcore Survival
 
-<div align="center">
-  <img src="https://img.itch.zone/aW1nLzI2MTc1MTA3LmdpZg==/original/L9kTnt.gif" width="100%">
-</div>
+[![Starve Neon](https://raw.githubusercontent.com/NeonShadowYT/NeonShadowYT/main/images/banner-development.gif)](https://neonshadowyt.github.io/NeonImperium/starve-neon)
 
 > A brutal mix of *Escape from Tarkov*, *Rust*, and *ARC Riders* in the stylized 3D graphics of *Starve.io*.  
 > *Starve Neon is in early development but already playable. Join and help shape the game!*
@@ -55,6 +53,4 @@ Use, fork, improve. If you create something cool, let me know!
 [![GitHub stars](https://img.shields.io/github/stars/NeonShadowYT?style=for-the-badge&logo=github&color=FFC107)](https://github.com/NeonShadowYT)
 [![GitHub followers](https://img.shields.io/github/followers/NeonShadowYT?style=for-the-badge&logo=github&label=Follow&color=282c34)](https://github.com/NeonShadowYT)
 
-<div align="center">
-  <img src="https://img.itch.zone/aW1nLzI2MTc1MTAzLmdpZg==/original/ZSdakp.gif">
-</div>
+[![Starve Neon](https://raw.githubusercontent.com/NeonShadowYT/NeonShadowYT/main/images/banner-status.gif)](https://neonshadowyt.github.io/NeonImperium/starve-neon)
