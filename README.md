@@ -2,6 +2,10 @@
   <img src="https://img.itch.zone/aW1nLzI2MTc1MDg1LmdpZg==/original/Dn1QbR.gif" width="100%" alt="Starve Neon Banner">
 </div>
 
+<div align="center">
+  <a href="README.md">🇷🇺 Русский</a> • <a href="README.en.md">🇬🇧 English</a>
+</div>
+
 ## ✨ Neon Shadow · Indie Dev & Tool Maker
 
 **Hey, I'm Neon Shadow** a solo developer from Russia crafting brutal survival worlds and sharing the tools I build along the way.  
