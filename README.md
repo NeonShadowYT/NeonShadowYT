@@ -49,7 +49,12 @@
 | [![World Generator](https://img.shields.io/badge/%20WorldGenerator-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/WorldGenerator) | Расстановка префабов по правилам - идеально для процедурной генерации уровней. |
 | [![Neon Imperium](https://img.shields.io/badge/%20Neon%20Imperium-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/NeonImperium) | Открытый сайт для Starve Neon - HTML/CSS/JS, можно изучать и использовать. |
 
-Пользуйтесь, форкайте, улучшайте. Если создадите что‑то крутое дайте знать!
+## 🚀 Поддержи разработку
+
+Мои инструменты и проекты - открытый код. Ты можешь свободно их использовать, форкать и дорабатывать под свои задачи.  
+Если что‑то из этого оказалось полезным - поставь звёздочку ⭐️ на GitHub. Это не только приятно, но и помогает другим разработчикам находить проекты.
+
+Кстати, я регулярно выкладываю новые утилиты и обновления для Starve Neon. Подпишись, чтобы не пропустить свежие релизы и идеи.
 
 [![GitHub stars](https://img.shields.io/github/stars/NeonShadowYT?style=for-the-badge&logo=github&color=FFC107)](https://github.com/NeonShadowYT)
 [![GitHub followers](https://img.shields.io/github/followers/NeonShadowYT?style=for-the-badge&logo=github&label=Follow&color=282c34)](https://github.com/NeonShadowYT)
