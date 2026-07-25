@@ -11,7 +11,7 @@
 **Привет, я Neon Shadow** независимый разработчик из России. Создаю жестокие миры выживания и делюсь инструментами, которые собираю по пути.  
 Моё текущее увлечение: **Starve Neon** хардкорная многопользовательская игра на выживание.
 
-- Создатель [![Starve Neon](https://img.shields.io/badge/%20Starve%20Neon-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://neonshadowyt.github.io/NeonImperium/starve-neon) Tarkov и Rust в стилизованной 3D‑графике.  
+- Создатель [![Starve Neon](https://img.shields.io/badge/%20Starve%20Neon-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://neonshadowyt.github.io/NeonImperium/starve-neon) - Tarkov и Rust в стилизованной 3D‑графике.  
 - **Открытые инструменты** для разработчиков игр: [![Icon Creator](https://img.shields.io/badge/%20IconCreator-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/IconCreator), [![World Generator](https://img.shields.io/badge/%20WorldGenerator-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/WorldGenerator).  
 - Сайт и портал проектов: [![Neon Imperium](https://img.shields.io/badge/%20Neon%20Imperium-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/NeonImperium).
 
