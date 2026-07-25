@@ -49,8 +49,8 @@
 | Инструмент | Что делает |
 |------------|------------|
 | [![Icon Creator](https://img.shields.io/badge/%20IconCreator-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/IconCreator) | Простое создание иконок из 3D‑моделей прямо в редакторе. |
-| [![World Generator](https://img.shields.io/badge/%20WorldGenerator-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/WorldGenerator) | Расстановка префабов по правилам — идеально для процедурной генерации уровней. |
-| [![Neon Imperium](https://img.shields.io/badge/%20Neon%20Imperium-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/NeonImperium) | Открытый сайт для Starve Neon — HTML/CSS/JS, можно изучать и использовать. |
+| [![World Generator](https://img.shields.io/badge/%20WorldGenerator-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/WorldGenerator) | Расстановка префабов по правилам - идеально для процедурной генерации уровней. |
+| [![Neon Imperium](https://img.shields.io/badge/%20Neon%20Imperium-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/NeonImperium) | Открытый сайт для Starve Neon - HTML/CSS/JS, можно изучать и использовать. |
 
 Пользуйтесь, форкайте, улучшайте. Если создадите что‑то крутое дайте знать!
 
