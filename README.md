@@ -4,7 +4,7 @@
 
 ## ✨ Neon Shadow · Indie Dev & Tool Maker
 
-**Hey, I'm Neon Shadow** — a solo developer from Russia crafting brutal survival worlds and sharing the tools I build along the way.  
+**Hey, I'm Neon Shadow** a solo developer from Russia crafting brutal survival worlds and sharing the tools I build along the way.  
 My current obsession: **Starve Neon**, a hardcore multiplayer survival game.
 
 - Creator of [![Starve Neon](https://img.shields.io/badge/%20Starve%20Neon-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://neonshadowyt.github.io/NeonImperium/starve-neon) – Tarkov meets Rust, with stylized 3D graphics  
@@ -51,6 +51,9 @@ I believe in making development easier for everyone. Here are some tools I've bu
 | [![Neon Imperium](https://img.shields.io/badge/%20Neon%20Imperium-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/NeonImperium) | The open‑source website for Starve Neon – HTML/CSS/JS, yours to explore. |
 
 Use them, fork them, improve them. If you build something cool, let me know!
+
+[![GitHub stars](https://img.shields.io/github/stars/NeonShadowYT?style=for-the-badge&logo=github&color=FFC107)](https://github.com/NeonShadowYT)
+[![GitHub followers](https://img.shields.io/github/followers/NeonShadowYT?style=for-the-badge&logo=github&label=Follow&color=282c34)](https://github.com/NeonShadowYT)
 
 <div align="center">
   <img src="https://img.itch.zone/aW1nLzI2MTc1MTAzLmdpZg==/original/ZSdakp.gif">
