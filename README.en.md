@@ -49,8 +49,8 @@ My current passion: **Starve Neon** a hardcore multiplayer survival game.
 | Tool | What it does |
 |------------|------------|
 | [![Icon Creator](https://img.shields.io/badge/%20IconCreator-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/IconCreator) | Simple icon creation from 3D models right in the editor. |
-| [![World Generator](https://img.shields.io/badge/%20WorldGenerator-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/WorldGenerator) | Placing prefabs according to rules perfect for procedural level generation. |
-| [![Neon Imperium](https://img.shields.io/badge/%20Neon%20Imperium-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/NeonImperium) | Open website for Starve Neon HTML/CSS/JS, can be studied and used. |
+| [![World Generator](https://img.shields.io/badge/%20WorldGenerator-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/WorldGenerator) | Placing prefabs according to rules - perfect for procedural level generation. |
+| [![Neon Imperium](https://img.shields.io/badge/%20Neon%20Imperium-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/NeonImperium) | Open website for Starve Neon - HTML/CSS/JS, can be studied and used. |
 
 Use, fork, improve. If you create something cool, let me know!
 
