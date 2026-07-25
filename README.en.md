@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://img.itch.zone/aW1nLzI2MTc1MDg1LmdpZg==/original/Dn1QbR.gif" width="100%" alt="Starve Neon Banner">
-</div>
+[![Starve Neon](https://raw.githubusercontent.com/NeonShadowYT/NeonShadowYT/main/images/banner-world.gif)](https://neonshadowyt.github.io/NeonImperium/starve-neon)
 
 <div align="center">
   <a href="README.md">🇷🇺 Russian</a> • <a href="README.en.md">🇬🇧 English</a>
