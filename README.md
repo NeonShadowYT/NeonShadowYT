@@ -1,7 +1,8 @@
 [![Starve Neon](https://raw.githubusercontent.com/NeonShadowYT/NeonShadowYT/main/images/banner-world.gif)](https://neonshadowyt.github.io/NeonImperium/starve-neon)
 
 <div align="center">
-  <a href="README.md">🇷🇺 Русский</a> • <a href="README.en.md">🇬🇧 English</a>
+  <a href="README.md"><img src="https://img.shields.io/badge/🇷🇺%20Русский-2d2f48?style=for-the-badge&logoColor=white" alt="Русский"></a>
+  <a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇧%20English-2d2f48?style=for-the-badge&logoColor=white" alt="English"></a>
 </div>
 
 ## ✨ Neon Shadow · Инди‑разработчик
