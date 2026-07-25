@@ -49,7 +49,12 @@ My current passion: **Starve Neon** a hardcore multiplayer survival game.
 | [![World Generator](https://img.shields.io/badge/%20WorldGenerator-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/WorldGenerator) | Placing prefabs according to rules - perfect for procedural level generation. |
 | [![Neon Imperium](https://img.shields.io/badge/%20Neon%20Imperium-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/NeonImperium) | Open website for Starve Neon - HTML/CSS/JS, can be studied and used. |
 
-Use, fork, improve. If you create something cool, let me know!
+## 🚀 Support the Development
+
+My tools and projects are open source. You're free to use, fork, and tweak them for your own needs.  
+If any of this turned out to be useful - give it a ⭐️ on GitHub. It's not just nice for me, it also helps other devs find the projects.
+
+Oh, and I regularly release new utilities and updates for Starve Neon. Hit that Follow button so you don't miss fresh releases and ideas.
 
 [![GitHub stars](https://img.shields.io/github/stars/NeonShadowYT?style=for-the-badge&logo=github&color=FFC107)](https://github.com/NeonShadowYT)
 [![GitHub followers](https://img.shields.io/github/followers/NeonShadowYT?style=for-the-badge&logo=github&label=Follow&color=282c34)](https://github.com/NeonShadowYT)
