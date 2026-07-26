@@ -55,7 +55,7 @@ My current passion: **Starve Neon** a hardcore multiplayer survival game.
 
 ## 🎮 Fan Projects
 
-Aside from my main game, I like to tinker with old classics — fix, enhance, and polish them. Here's what I've put together so far:
+Aside from my main game, I like to tinker with old classics - fix, enhance, and polish them. Here's what I've put together so far:
 
 | Project | What it does |
 |---------|--------------|
