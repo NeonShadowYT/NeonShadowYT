@@ -25,6 +25,7 @@
 [![Twitch](https://img.shields.io/twitch/status/neoncyndows?style=for-the-badge&logo=twitch&logoColor=white&label=Twitch&labelColor=9146FF&color=282c34)](https://www.twitch.tv/neoncyndows)
 [![Discord](https://img.shields.io/discord/1033727594467704842?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=5865F2&color=282c34)](https://discord.com/invite/9gv5sRhk9R)
 [![Telegram](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@voididea&style=for-the-badge&logo=telegram&logoColor=white&label=Telegram&labelColor=26A5E4&color=282c34)](https://t.me/voididea)
+[![Boosty](https://img.shields.io/badge/Boosty-FF5E00?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/neoncyndows)
 
 ## 💖 Напиши мне
 [![Telegram](https://img.shields.io/badge/Telegram-Личка-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4&color=282c34)](https://t.me/NeonShindowsYT)
