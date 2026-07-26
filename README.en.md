@@ -53,6 +53,14 @@ My current passion: **Starve Neon** a hardcore multiplayer survival game.
 | [![World Generator](https://img.shields.io/badge/%20WorldGenerator-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/WorldGenerator) | Placing prefabs according to rules - perfect for procedural level generation. |
 | [![Neon Imperium](https://img.shields.io/badge/%20Neon%20Imperium-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/NeonImperium) | Open website for Starve Neon - HTML/CSS/JS, can be studied and used. |
 
+## 🎮 Fan Projects
+
+Aside from my main game, I like to tinker with old classics — fix, enhance, and polish them. Here's what I've put together so far:
+
+| Project | What it does |
+|---------|--------------|
+| [![Hobbit Starver Edition](https://img.shields.io/badge/Hobbit%20Starver%20Edition-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/HobbitStarverEdition) | Enhanced and expanded version of *The Hobbit* (2003) with restored content, retextures, and tons of fixes. Built on top of Community Extended Edition. |
+
 ## 🚀 Support the Development
 
 My tools and projects are open source. You're free to use, fork, and tweak them for your own needs.  
