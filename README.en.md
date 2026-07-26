@@ -11,7 +11,7 @@
 
 Self‑taught, got into Unity and C# back in 2021. Started with dumb copy‑pasting from tutorials, stumbled on every bug and Googled my way out. The game‑changer was finding [![Maximple](https://img.shields.io/badge/Maximple-2d2f48?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@Maximple) - that’s when real Starve Neon development kicked off. I never crammed books or followed strict guides; I just grabbed whatever I needed for the game at that moment, re‑coded it, and tweaked it to fit. Soon the public prototype [![v0.6.0](https://img.shields.io/badge/Starve%20Neon%20v0.6.0-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/NeonImperium/releases/tag/v0.6.0) saw the light.
 
-Now I code comfortably offline, solid mid‑level. My main obsession is optimization — I’ve watched tons of videos on C# and Unity performance, and I really care about making things run smooth.
+Now I code comfortably offline, solid mid‑level. My main obsession is optimization - I’ve watched tons of videos on C# and Unity performance, and I really care about making things run smooth.
 My current passion: **Starve Neon** a hardcore multiplayer survival game.
 
 - Creator of [![Starve Neon](https://img.shields.io/badge/%20Starve%20Neon-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://neonshadowyt.github.io/NeonImperium/starve-neon) - Tarkov and Rust in stylized 3D graphics.  
@@ -56,7 +56,7 @@ My current passion: **Starve Neon** a hardcore multiplayer survival game.
 
 ## 🎮 Fan Projects
 
-Aside from my main game, I like to tinker with old classics - fix, enhance, and polish them. Here's what I've put together so far:
+Alongside the main development, there are also small projects:
 
 | Project | What it does |
 |---------|--------------|
