@@ -53,6 +53,14 @@
 | [![World Generator](https://img.shields.io/badge/%20WorldGenerator-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/WorldGenerator) | Расстановка префабов по правилам - идеально для процедурной генерации уровней. |
 | [![Neon Imperium](https://img.shields.io/badge/%20Neon%20Imperium-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/NeonImperium) | Открытый сайт для Starve Neon - HTML/CSS/JS, можно изучать и использовать. |
 
+## 🎮 Фан-проекты
+
+Помимо основной разработки, люблю возиться со старыми играми — улучшать, дополнять, доводить до ума. Вот что уже успел наколхозить:
+
+| Проект | Что делает |
+|--------|------------|
+| [![Hobbit Starver Edition](https://img.shields.io/badge/Hobbit%20Starver%20Edition-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/HobbitStarverEdition) | Улучшенная и дополненная версия «Хоббита» (2003) с восстановленным контентом, ретекстурой и кучей исправлений. Сборка на базе Community Extended Edition. |
+
 ## 🚀 Поддержи разработку
 
 Мои инструменты и проекты - открытый код. Ты можешь свободно их использовать, форкать и дорабатывать под свои задачи.  
