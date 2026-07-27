@@ -10,7 +10,7 @@
 
 **Привет, я Neon Shadow** независимый разработчик из России. Создаю жестокие миры выживания и делюсь инструментами, которые собираю по пути.
 
-Самоучка, ворвался в Unity и C# в 2021-м. Начинал с тупого копирования гайдов, спотыкался о каждую ошибку и гуглил решение. Переломный момент - нашёл [![Maximple](https://img.shields.io/badge/Maximple-2d2f48?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@Maximple), с него и пошла полноценная разработка Starve Neon. Я не зубрил книжки - просто брал то, что нужно для игры, и повторял, переделывал под себя. Вскоре родился публичный прототип [![v0.6.0](https://img.shields.io/badge/Starve%20Neon%20v0.6.0-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/NeonImperium/releases/tag/v0.6.0).
+Самоучка, ворвался в Unity и C# в 2021-м. Начинал с тупого копирования гайдов, спотыкался о каждую ошибку и гуглил решение. Я не зубрил книжки - просто брал то, что нужно для игры, и повторял, переделывал под себя. Переломный момент - нашёл [![Maximple](https://img.shields.io/badge/Maximple-2d2f48?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@Maximple), с него и пошла полноценная разработка Starve Neon.  Вскоре родился публичный прототип [![v0.6.0](https://img.shields.io/badge/Starve%20Neon%20v0.6.0-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/NeonImperium/releases/tag/v0.6.0).
 
 Сейчас спокойно пишу код без интернета, твёрдый мидл. Главный конёк - оптимизация, на ней помешан, пересмотрел тонны видосов по C# и Unity.  
 Моё текущее увлечение: **Starve Neon** - хардкорная многопользовательская игра на выживание.
