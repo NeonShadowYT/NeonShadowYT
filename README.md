@@ -70,7 +70,10 @@
 
 Кстати, я регулярно выкладываю новые утилиты и обновления для Starve Neon. Подпишись, чтобы не пропустить свежие релизы и идеи.
 
+<div align="center">
+
 [![GitHub stars](https://img.shields.io/github/stars/NeonShadowYT?style=for-the-badge&logo=github&color=FFC107)](https://github.com/NeonShadowYT)
 [![GitHub followers](https://img.shields.io/github/followers/NeonShadowYT?style=for-the-badge&logo=github&label=Follow&color=282c34)](https://github.com/NeonShadowYT)
 
 [![Starve Neon](https://raw.githubusercontent.com/NeonShadowYT/NeonShadowYT/main/images/banner-status.gif)](https://neonshadowyt.github.io/NeonImperium/starve-neon)
+</div>
