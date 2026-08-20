@@ -29,7 +29,7 @@ My current passion: **Starve Neon** a hardcore multiplayer survival game.
 [![Boosty](https://img.shields.io/badge/Boosty-FF5E00?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/neoncyndows)
 
 ## 💖 Contact Me
-[![Telegram](https://img.shields.io/badge/Telegram-Personal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4&color=282c34)](https://t.me/NeonShindowsYT)
+[![Telegram](https://img.shields.io/badge/Telegram-Personal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4&color=282c34)](https://t.me/NeonCyndows)
 [![Discord](https://img.shields.io/badge/Discord-Personal-26A5E4?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=5865F2&color=282c34)](https://discord.com/users/857872869949177896)
 </div>
 
